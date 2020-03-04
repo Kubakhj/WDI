@@ -15,3 +15,21 @@ Treści zadań:
 
 2. Napisać program wczytujący liczbę naturalną z klawiatury i odpowiadający na pytanie,
 czy liczba ta jest iloczynem dowolnych dwóch kolejnych wyrazów ciągu Fibonacciego.
+
+3. Napisać program wyznaczający pierwiastek kwadratowy ze wzoru Newtona.
+
+4. Napisać program rozwiązujący równanie x^x^x=2017 metodą bisekcji.
+
+5. Napisz program wczytujący liczbę naturalną z klawiatury i odpowiadający na pytanie,
+czy liczba ta jest wielokrotnością dowolnego wyrazu ciągu danego wzorem
+A(n)=n*n+n+1.
+
+6. Napisz program wczytujący liczbę naturalną z klawiatury i odpowiadający na pytanie,
+czy liczba naturalna jest palindromem, a następnie czy jest palindromem w systemie
+dwójkowym.
+
+7. Napisać program wczytujący liczbę naturalną z klawiatury i rozkładający ją na
+iloczyn 2 liczb o najmniejszej różnicy. Np. 30=5*6, 120=10*12.
+
+8. Napisać program, który oblicza pole figury pod wykresem funkcji y=1/x w przedziale
+od 1 do k, metodą prostokątów.
