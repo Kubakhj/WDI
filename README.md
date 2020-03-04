@@ -7,7 +7,7 @@ Code made for Introduction to Computer Science-subject at an AGH university. Dif
 **PL**
 
 Kod stworzony w ramach przedmiotu Wprowadzenie do Informatyki na AGH w Krakowie. Wykonane są różne zadanie ćwiczeniowe i przećwiczone niektóre podstawowe struktury danych.
-Nie daję gwarancji na działanie wszystkich zamieszczonych tutaj programów, kod powstawał w celach rozwojowych i edukacyjnych.
+Nie daję gwarancji na działanie wszystkich zamieszczonych tutaj programów, kod powstawał **w celach rozwojowych i edukacyjnych.**
 
 Treści zadań:
 
