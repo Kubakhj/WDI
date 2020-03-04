@@ -2,7 +2,7 @@
 
 **EN**
 
-Code made for Introduction to Computer Science-subject at an AGH university. Different algorithmic tasks and practising basic data structures.
+Code made for Introduction to Computer Science-subject at an AGH university. Different trivial algorithmic tasks and practising basic data structures.
 
 **PL**
 
